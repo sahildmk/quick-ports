@@ -5,7 +5,7 @@ A lightweight macOS menu bar app to monitor listening ports and kill processes.
 ![macOS](https://img.shields.io/badge/macOS-13.0+-blue)
 ![Swift](https://img.shields.io/badge/Swift-5.9-orange)
 
-![Quick Ports Screenshot](quick-ports-image.png)
+<img src="quick-ports-image.png" alt="Quick Ports Screenshot" width="452" height="592">
 
 ## Features
 
