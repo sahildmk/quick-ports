@@ -59,7 +59,7 @@ struct PortsView: View {
                                 startPoint: .topLeading,
                                 endPoint: .bottomTrailing
                             ))
-                        Text("Ports Monitor")
+                        Text("Quick Ports")
                             .font(.headline)
                     }
                     Spacer()
