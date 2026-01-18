@@ -17,6 +17,12 @@ A lightweight macOS menu bar app to monitor listening ports and kill processes.
 
 ## Installation
 
+### Homebrew (Recommended)
+
+```bash
+brew install --cask sahildmk/tap/quick-ports
+```
+
 ### Build from source
 
 Requires macOS 13.0+ and Swift 5.9+
@@ -25,16 +31,7 @@ Requires macOS 13.0+ and Swift 5.9+
 git clone https://github.com/sahildmk/quick-ports.git
 cd quick-ports
 swift build -c release
-```
-
-### Run
-
-```bash
-# After building
 .build/release/PortsMonitor
-
-# Or for development
-swift run
 ```
 
 The app runs in the menu bar — look for the network icon.
